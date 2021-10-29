@@ -1,0 +1,9 @@
+C:\Users\edwar\source\repos\ToyRobotEDucker\ToyRobotEDucker\bin\Release\netcoreapp3.1\ToyRobotEDucker.deps.json
+C:\Users\edwar\source\repos\ToyRobotEDucker\ToyRobotEDucker\bin\Release\netcoreapp3.1\ToyRobotEDucker.dll
+C:\Users\edwar\source\repos\ToyRobotEDucker\ToyRobotEDucker\bin\Release\netcoreapp3.1\ToyRobotEDucker.pdb
+C:\Users\edwar\source\repos\ToyRobotEDucker\ToyRobotEDucker\obj\Release\netcoreapp3.1\ToyRobotEDucker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\source\repos\ToyRobotEDucker\ToyRobotEDucker\obj\Release\netcoreapp3.1\ToyRobotEDucker.AssemblyInfoInputs.cache
+C:\Users\edwar\source\repos\ToyRobotEDucker\ToyRobotEDucker\obj\Release\netcoreapp3.1\ToyRobotEDucker.AssemblyInfo.cs
+C:\Users\edwar\source\repos\ToyRobotEDucker\ToyRobotEDucker\obj\Release\netcoreapp3.1\ToyRobotEDucker.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\ToyRobotEDucker\ToyRobotEDucker\obj\Release\netcoreapp3.1\ToyRobotEDucker.dll
+C:\Users\edwar\source\repos\ToyRobotEDucker\ToyRobotEDucker\obj\Release\netcoreapp3.1\ToyRobotEDucker.pdb
